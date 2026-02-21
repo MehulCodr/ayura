@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821091528804",
+    "project_id": "Ayura-1fa03",
+    "storage_bucket": "Ayura-1fa03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821091528804:android:bb8f6581d03dbfe3da6f71",
+        "android_client_info": {
+          "package_name": "com.surya_dixit3.Ayura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821091528804-4s4muso4pd0ul9n7vaf750vq1664i8tf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.surya_dixit3.Ayura",
+            "certificate_hash": "b24a5dd0d4bda5d7b74ea33c0a1cec149f95acd0"
+          }
+        },
+        {
+          "client_id": "821091528804-fodc674gmihgh36ue7kmvs9nokol1onr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlM08IFlJDWNCxxkmNcmiboIPDT9UjExo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821091528804-fodc674gmihgh36ue7kmvs9nokol1onr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
